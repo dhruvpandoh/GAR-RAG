@@ -1,4 +1,4 @@
-# app/core/config.py
+## app/core/config.py
 from pydantic import BaseSettings
 
 class Settings(BaseSettings):
